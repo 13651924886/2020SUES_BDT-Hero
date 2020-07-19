@@ -17,13 +17,13 @@
   */
 #include "main.h"
 
-#include "stm32f4xx.h" //test
+#include "stm32f4xx.h" //test22
 
 #include "adc.h"
 #include "buzzer.h"
 #include "can.h"
 #include "delay.h"
-#include "flash.h"
+#include "flash.h"//test
 #include "fric.h"
 #include "laser.h"
 #include "led.h"
