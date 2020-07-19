@@ -1,2 +1,2 @@
 # RoboMasterCode
-RoboMaster Embeded System Code for STM32
+RoboMaster Embeded System Code for STM32F427IIX on Hero Robotics
