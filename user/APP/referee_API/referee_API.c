@@ -36,3 +36,4 @@ void get_shoot_heat1_limit_and_heat1(uint16_t *heat1_limit, uint16_t *heat1)
     *heat1_limit = robot_state.shooter_heat1_cooling_limit;
     *heat1 = power_heat_data_t.shooter_heat1;
 }
+//²âÊÔ
